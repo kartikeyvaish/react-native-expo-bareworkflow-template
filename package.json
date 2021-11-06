@@ -1,0 +1,8 @@
+{
+  "name": "react-native-expo-bare-template",
+  "version": "0.0.1",
+  "description": "React Native Expo BareWorkflow template",
+  "repository": "git@github.com:kartikeyvaish/react-native-expo-bareworkflow-template.git",
+  "author": "Kartikey Vaish <kartikeyvaish99@gmail.com>",
+  "license": "MIT"
+}
