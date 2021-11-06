@@ -8,7 +8,7 @@ React Native Expo BareWorkflow Template with React Navigation, Themes, Redux and
 
 Simply run the below command to create a new project,
 
-    npx react-native init AwesomeApp https://github.com/kartikeyvaish/react-native-expo-bareworkflow-template.git
+    npx react-native init AwesomeApp --template https://github.com/kartikeyvaish/react-native-expo-bareworkflow-template.git
 
 ## Packages Installed
 
